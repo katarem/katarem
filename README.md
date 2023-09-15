@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Hi! I'm katarem</title>
-</head>
 <body>
     <h1>Hi! I'm katarem</h1>
     <p>
