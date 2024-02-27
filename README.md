@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
 <body>
     <h1>Hi! I'm katarem</h1>
@@ -9,17 +10,27 @@
     <hr>
     <h1>Technologies I use</h1>
     <p>
-        I've been around 3 years programming in Java, but I can work with Javascript and C# too. I'm trying to learn all the new technologies I get the interest into, as React, Quarkus, Express, and probably will work on Bun nextly.
-    </p>
-    <p>
-        My specialty is desktop Java apps and server-rendered web apps.
+        I've been around 3 years programming in Java, but I like to develop in many areas, such as mobile development with Kotlin and Jetpack Compose on Android, backend with Java and SpringBoot using Maven, or even frontend with TypeScript, Node and React. Sometimes I work with Unity and C# too.
     </p>
     <div style="display: flex; justify-content: center;">
-    <img src="./assets/react.webp" style="width: 100px; height: 100px;">
-    <img src="./assets/node.png" style="width: 130px; height: 100px;">
-    <img src="./assets/java.png" style="width: 100px; height: 100px;">
-    <img src="./assets/javafx.png" style="width: 150px; height: 100px;">
-    <img src="./assets/scenebuilder.png" style="width: 100px; height:100px;">
+    <img src="./assets/kotlin.svg" style="width: 10%;">
+    <img src="./assets/android.svg" style="width: 10%; margin-left:0.5rem;">
+    <img src="./assets/java.svg" style="width: 10%; margin-left:0.5rem;">
+    <img src="./assets/maven.svg" style="width: 10%; margin-left:0.5rem;">
+    <img src="./assets/spring.svg" style="width: 10%; margin-left:0.25rem">
+    <img src="./assets/javascript.svg" style="width: 10%; margin-left:0.5rem">
+    <img src="./assets/typescript.svg" style="width: 10%; margin-left:0.5rem">
+    <img src="./assets/react.svg" style="width: 10%; margin-left:0.5rem">
+    <img src="./assets/nodejs.svg" style="width: 10%; margin-left:0.5rem">
+    <img src="./assets/python.svg" style="width: 10%; margin-left:0.5rem">
+    
+</div>
+<hr>
+<div style="display: flex; justify-content: center;">
+    <img src="./assets/mysql.svg" style="width: 10%; margin-left:0.5rem">
+    <img src="./assets/git.svg" style="width: 10%; margin-left:0.5rem">
+    <img src="./assets/unity.svg" style="width: 10%; margin-left:0.5rem">
+    <img src="./assets/csharp.svg" style="width: 10%; margin-left:0.5rem">
 </div>
 </body>
 </html>
