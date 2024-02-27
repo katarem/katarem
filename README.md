@@ -14,23 +14,20 @@
     </p>
     <div style="display: flex; justify-content: center;">
     <img src="./assets/kotlin.svg" style="width: 10%;">
-    <img src="./assets/android.svg" style="width: 10%; margin-left:0.5rem;">
-    <img src="./assets/java.svg" style="width: 10%; margin-left:0.5rem;">
-    <img src="./assets/maven.svg" style="width: 10%; margin-left:0.5rem;">
+    <img src="./assets/android.svg" style="width: 10%; margin-left:1rem;">
+    <img src="./assets/java.svg" style="width: 10%; margin-left:1rem;">
+    <img src="./assets/maven.svg" style="width: 10%; margin-left:1rem;">
     <img src="./assets/spring.svg" style="width: 10%; margin-left:0.25rem">
-    <img src="./assets/javascript.svg" style="width: 10%; margin-left:0.5rem">
-    <img src="./assets/typescript.svg" style="width: 10%; margin-left:0.5rem">
-    <img src="./assets/react.svg" style="width: 10%; margin-left:0.5rem">
-    <img src="./assets/nodejs.svg" style="width: 10%; margin-left:0.5rem">
-    <img src="./assets/python.svg" style="width: 10%; margin-left:0.5rem">
-    
-</div>
-<hr>
-<div style="display: flex; justify-content: center;">
-    <img src="./assets/mysql.svg" style="width: 10%; margin-left:0.5rem">
+    <img src="./assets/javascript.svg" style="width: 10%; margin-left:1rem">
+    <img src="./assets/typescript.svg" style="width: 10%; margin-left:1rem">
+    <img src="./assets/react.svg" style="width: 10%; margin-left:1rem">
+    <img src="./assets/nodejs.svg" style="width: 10%; margin-left:1rem">
+    <img src="./assets/python.svg" style="width: 10%; margin-left:1rem">
+    <img src="./assets/mysql.svg" style="width: 10%; margin-left:1rem">
     <img src="./assets/git.svg" style="width: 10%; margin-left:0.5rem">
-    <img src="./assets/unity.svg" style="width: 10%; margin-left:0.5rem">
-    <img src="./assets/csharp.svg" style="width: 10%; margin-left:0.5rem">
+    <img src="./assets/unity.svg" style="width: 10%; margin-left:1rem">
+    <img src="./assets/csharp.svg" style="width: 10%; margin-left:1rem">    
 </div>
+
 </body>
 </html>
