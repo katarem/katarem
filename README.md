@@ -6,7 +6,7 @@
     <p>I'm a fullstack software as a hobby for the moment, as a work for the future. I like to develop some stuff for myself and the community so feel free to try out or fork any of my projects! I'm open to any offer.</p>
     <div align="center" style="display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=katarem&theme=material-palenigh&bg_color=00000000&hide_border=true&hide=issues,contribs,prs&show_icons=true&count_private=true" title="" alt="a" style="display: block; margin: 0 auto; width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katarem&locale=es&hide_title=true&layout=compact&langs_count=10&theme=dracula&hide_border=false&exclude_repo=genshin-api,KatApi" title="" alt="a" style="display: block; margin: 0 auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katarem&locale=es&hide_title=true&layout=compact&langs_count=6&theme=dracula&hide_border=false&exclude_repo=genshin-api,KatApi" title="" alt="a" style="display: block; margin: 0 auto;">
     </div>
     <hr>
     <h1>Technologies I use</h1>
