@@ -15,31 +15,43 @@
     <h1>Technologies I use</h1>
     <p>I've been around 3 years programming in Java, but I like to develop in many areas, such as mobile development with Kotlin and Jetpack Compose on Android, backend with Java and SpringBoot using Maven, or even frontend with TypeScript, Node and React. Sometimes I work with Unity and C# too.</p>
     <h3>Mobile<h3>
-    <img src="https://skillicons.dev/icons?i=kotlin">
-    <img src="https://skillicons.dev/icons?i=androidstudio">
-    <h3>Frontend</h3>   
-    <img src="https://skillicons.dev/icons?i=js">
-    <img src="https://skillicons.dev/icons?i=ts">
-    <img src="https://skillicons.dev/icons?i=css">
-    <img src="https://skillicons.dev/icons?i=html">
-    <img src="https://skillicons.dev/icons?i=react">
+    <div style="display: flex; flex-direction: row;">
+        <img src="https://skillicons.dev/icons?i=kotlin">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=androidstudio">
+    </div>
+    <h3>Frontend</h3>
+    <div style="display: flex; flex-direction: row;">
+        <img src="https://skillicons.dev/icons?i=js">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=ts">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=css">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=html">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=react">
+    </div>
     <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=java">
-    <img src="https://skillicons.dev/icons?i=maven">
-    <img src="https://skillicons.dev/icons?i=spring">
+    <div style="display: flex; flex-direction: row;">
+        <img src="https://skillicons.dev/icons?i=java">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=maven">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=spring">
+    </div>
     <h3>Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mysql">
-    <img src="https://skillicons.dev/icons?i=sqlite">
-    <img src="https://skillicons.dev/icons?i=mongo">
+    <div style="display: flex; flex-direction: row;">
+        <img src="https://skillicons.dev/icons?i=mysql">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=sqlite">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=mongo">
+    </div>
     <h3>Videogames</h3>
-    <img src="https://skillicons.dev/icons?i=unity">
-    <img src="https://skillicons.dev/icons?i=cs">
+    <div style="display: flex; flex-direction: row;">
+        <img src="https://skillicons.dev/icons?i=unity">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=cs">
+    </div>
     <h3>Misc</h3>
-    <img src="https://skillicons.dev/icons?i=git">
-    <img src="https://skillicons.dev/icons?i=vscode">
-    <img src="https://skillicons.dev/icons?i=visualstudio">
-    <img src="https://skillicons.dev/icons?i=idea">
-    <img src="https://skillicons.dev/icons?i=linux">
-    <img src="https://skillicons.dev/icons?i=windows">
+    <div style="display: flex; flex-direction: row;">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=git">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=vscode">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=visualstudio">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=idea">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=linux">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=windows">
+    </div>
 </body>
 </html>
