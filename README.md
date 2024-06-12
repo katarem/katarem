@@ -3,7 +3,7 @@
 <html>
 <body>
     <h1>Hi! I'm katarem</h1>
-    <div style="display flex; flex-direction: column; align-items: center; text-align: center;">
+    <div style="align: center;">
     <img src="./assets/katana-rain.gif">
     </div>
     <p>Junior Fullstack developer. I love coding.</p>
