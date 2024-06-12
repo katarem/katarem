@@ -3,10 +3,10 @@
 <html>
 <body>
     <h1>Hi! I'm katarem</h1>
-    <div style="align: center;">
-    <img src="./assets/katana-rain.gif">
+    <div align="center">
+        <img src="./assets/katana-rain.gif">
+        <p>Junior Fullstack developer. I love coding.</p>
     </div>
-    <p>Junior Fullstack developer. I love coding.</p>
     <div style="display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=katarem&theme=material-palenigh&bg_color=00000000&hide_border=true&hide=issues,contribs,prs&show_icons=true&count_private=true" title="" alt="a" style="display: block; margin: 0 auto; width: 50%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katarem&locale=es&hide_title=true&layout=compact&langs_count=6&theme=dracula&hide_border=false&exclude_repo=genshin-api,KatApi" title="" alt="a" style="display: block; margin: 0 auto;">
