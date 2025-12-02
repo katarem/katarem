@@ -5,53 +5,50 @@
     <h1>Hi! I'm katarem</h1>
     <div align="center">
         <img src="./assets/katana-rain.gif">
-        <p>Junior Fullstack developer. I love coding.</p>
+        <p>Fullstack developer. I love coding.</p>
     </div>
-    <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=katarem&theme=material-palenigh&bg_color=00000000&hide_border=true&hide=issues,contribs,prs&show_icons=true&count_private=true" title="" alt="a" style="display: block; margin: 0 auto; width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katarem&locale=es&hide_title=true&layout=compact&langs_count=6&theme=dracula&hide_border=false&exclude_repo=genshin-api,KatApi" title="" alt="a" style="display: block; margin: 0 auto;">
-    </div>
-    <hr>
-    <h1>Technologies I use</h1>
-    <p>I've been around 3 years programming in Java, but I like to develop in many areas, such as mobile development with Kotlin and Jetpack Compose on Android, backend with Java and SpringBoot using Maven, or even frontend with TypeScript, Node and React. Sometimes I work with Unity and C# too.</p>
+    <p>Hi, I'm Cris, I am a full-stack developer. I've been actively coding since 2021, everyday learning something new or just coding what I like. I love anime and videogames too as you can check in my projects.</p>
+    <h1>Tech-stack</h1>
     <h3>Mobile<h3>
-    <div style="display: flex; flex-direction: row;">
+    <div style="display: flex; flex-direction: row; gap: 5px;">
         <img src="https://skillicons.dev/icons?i=kotlin">
         <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=androidstudio">
+        <img src="https://skillicons.dev/icons?i=react">
+        <img src="https://skillicons.dev/icons?i=ts">
     </div>
     <h3>Frontend</h3>
-    <div style="display: flex; flex-direction: row;">
+    <div style="display: flex; flex-direction: row; gap: 5px">
         <img src="https://skillicons.dev/icons?i=js">
         <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=ts">
         <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=css">
         <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=html">
         <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=react">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=nextjs">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=tailwind">
     </div>
     <h3>Backend</h3>
-    <div style="display: flex; flex-direction: row;">
+    <div style="display: flex; flex-direction: row; gap: 5px">
         <img src="https://skillicons.dev/icons?i=java">
         <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=maven">
         <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=spring">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=hibernate">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=python">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=nodejs">
     </div>
     <h3>Databases</h3>
-    <div style="display: flex; flex-direction: row;">
+    <div style="display: flex; flex-direction: row; gap: 5px">
         <img src="https://skillicons.dev/icons?i=mysql">
         <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=sqlite">
         <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=mongo">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=postgres">
     </div>
-    <h3>Videogames</h3>
-    <div style="display: flex; flex-direction: row;">
-        <img src="https://skillicons.dev/icons?i=unity">
-        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=cs">
-    </div>
-    <h3>Misc</h3>
-    <div style="display: flex; flex-direction: row;">
-        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=git">
-        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=vscode">
-        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=visualstudio">
-        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=idea">
-        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=linux">
-        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=windows">
+    <h3>DevOps and Testing</h3>
+   <div style="display: flex; flex-direction: row; gap: 5px">
+        <img src="https://skillicons.dev/icons?i=git">
+        <img src="https://skillicons.dev/icons?i=gitlab">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=docker">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=kubernetes">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=kafka">
     </div>
 </body>
 </html>
