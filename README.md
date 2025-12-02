@@ -49,6 +49,8 @@
         <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=docker">
         <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=kubernetes">
         <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=kafka">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=jest">
+        <img style="margin-left: 5px;" src="https://skillicons.dev/icons?i=github">
     </div>
 </body>
 </html>
